@@ -14,20 +14,16 @@ I am a postgraduate student at School of Cyber Science and Engineering, Wuhan Un
 - **Sept. 2024 - Jun. 2027**  
   M.S., Wuhan University
 
-### Selected Publications
-**ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**  
-**Sipeng Shen†**, Yunming Zhang†, Dengpan Ye*, Xiuwen Shi, Long Tang, Haoran Duan, Yueyun Shang, Zhihong Tian  
-**IEEE Transactions on Multimedia**, 2025 (Accepted).
+- **ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**  
+  **Sipeng Shen†**, Yunming Zhang†, Dengpan Ye*, Xiuwen Shi, Long Tang, Haoran Duan, Yueyun Shang, Zhihong Tian — *IEEE Transactions on Multimedia*, 2025 (Accepted).
 
-**Three-in-One: Robust Enhanced Universal Transferable Anti-Facial Retrieval in Online Social Networks**  
-Yunna Lv , Long Tang , Dengpan Ye, Jiacheng Deng, Yiheng He ,and **Sipeng Shen** 
-**IEEE Transactions on Information Forensics and Security**, 2025 (Accepted).
+- **Three-in-One: Robust Enhanced Universal Transferable Anti-Facial Retrieval in Online Social Networks**  
+  Yunna Lv, Long Tang, Dengpan Ye, Jiacheng Deng, Yiheng He, and **Sipeng Shen** — *IEEE Transactions on Information Forensics and Security*, 2025 (Accepted).
 
-**StyleMark: A Robust Watermarking Method for Art Style Images Against Black-Box Arbitrary Style Transfer**  
-Yunming Zhang, Dengpan Ye, **Sipeng Shen**, Jun Wang, Caiyun Xie
-**IEEE Transactions on Information Forensics and Security**, 2025 (Accepted).
+- **StyleMark: A Robust Watermarking Method for Art Style Images Against Black-Box Arbitrary Style Transfer**  
+  Yunming Zhang, Dengpan Ye, **Sipeng Shen**, Jun Wang, Caiyun Xie — *IEEE Transactions on Information Forensics and Security*, 2025 (Accepted).
 
-**Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face Recognition**  
+- **Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face Recognition**  
 **Under Review.
 
 ### Selected Honor And Awards
