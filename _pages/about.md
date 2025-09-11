@@ -13,7 +13,8 @@ I am a postgraduate student at School of Cyber Science and Engineering, Wuhan Un
   B.S., Northeastern University (China)  
 - **Sept. 2024 - Jun. 2027**  
   M.S., Wuhan University
-
+  
+### Selected Publication
 - **ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**  
   **Sipeng Shen†**, Yunming Zhang†, Dengpan Ye*, Xiuwen Shi, Long Tang, Haoran Duan, Yueyun Shang, Zhihong Tian — *IEEE Transactions on Multimedia*, 2025 (Accepted).
 
