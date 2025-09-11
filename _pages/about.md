@@ -24,6 +24,7 @@ Yunna Lv , Long Tang , Dengpan Ye, Jiacheng Deng, Yiheng He ,and **Sipeng Shen**
 **IEEE Transactions on Information Forensics and Security**, 2025 (Accepted).
 
 **StyleMark: A Robust Watermarking Method for Art Style Images Against Black-Box Arbitrary Style Transfer**  
+Yunming Zhang, Dengpan Ye, **Sipeng Shen**, Jun Wang, Caiyun Xie
 **IEEE Transactions on Information Forensics and Security**, 2025 (Accepted).
 
 **Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face Recognition**  
