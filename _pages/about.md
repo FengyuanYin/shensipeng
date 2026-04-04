@@ -21,7 +21,7 @@ redirect_from:
 
 ### 项目经历
 - **基于扩散模型的音频驱动唇形同步生成系统**
-- 针对lipsync中GAN模型难以适配大规模数据集,易发生模式崩塌与训练不稳定的问题,构建基于Stable Diffusion的端到端唇形同步生成框架.采用估计采样策略,实现视频帧的单步扩散生成,显著提升模型收敛效率.设计 StableSyncNet 监督架构,强化音画同步精度,效果优于 Wav2Lip.引入自监督视觉模型 VideoMAE-v2,提升视频时序一致性.同时采用课程学习策略分阶段训练,缓解多任务学习难度.实验结果表明,该方法在SSIM\\,FVD,FID,LMD等指标上超越 Wav2Lip,DiffSync,MuseTalk等SOTA方案.
+- 针对lipsync中GAN模型难以适配大规模数据集,易发生模式崩塌与训练不稳定的问题,构建基于Stable Diffusion的端到端唇形同步生成框架.采用估计采样策略,实现视频帧的单步扩散生成,显著提升模型收敛效率.设计 StableSyncNet 监督架构,强化音画同步精度,效果优于 Wav2Lip.引入自监督视觉模型 VideoMAE-v2,提升视频时序一致性.同时采用课程学习策略分阶段训练,缓解多任务学习难度.实验结果表明,该方法在SSIM,FVD,FID,LMD等指标上超越 Wav2Lip,DiffSync,MuseTalk等SOTA方案.
 
 ### 出版物
 - **ErasableMask: A Robust and Erasable Privacy Protection Scheme against Black-box Face Recognition Models**  
