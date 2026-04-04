@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postgraduate student at School of Cyber Science and Engineering, Wuhan University. My current research is focusing on 2D Digital Human, supervised by Prof. Dengpan Ye. During my Master's studies, I explored the use of adversarial examples to address privacy issues in deep learning models. In the future, I aim to delve deeper into the safety and controllable generation of multimodal large models.
+I am a postgraduate student at School of Cyber Science and Engineering, Wuhan University. My current research is focusing on 2D Digital Human, supervised by Prof. Dengpan Ye. 
 
 ### Education 
 - **Sept. 2020 - Jun. 2024**  
