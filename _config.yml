@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shensipeng's Homepage"
+title                    : "Sipeng Shen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://sipengshen01.github.io/shensipeng # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://sipengshen01.github.io" #"SipengShen01/shensipeng.github.io"
+name                     : &name "Sipeng Shen"
+description              : &description "Master's student at Wuhan University researching privacy protection for 2D digital humans."
+url                      : "https://fengyuanyin.github.io"
+baseurl                  : "/shensipeng"
+repository               : "FengyuanYin/shensipeng"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -31,7 +31,7 @@ author:
   # Academic websites
 
   googlescholar    : "https://scholar.google.com/citations?user=AhQD6FQAAAAJ&hl=en"
-  github           : "SipengShen01/"
+  github           : "FengyuanYin"
 
   # Social media
 

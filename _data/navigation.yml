@@ -9,16 +9,16 @@
 
 main:
   - title: "Education"
-    url: /cv/
+    url: /#education
     
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
-  - title: "Project Experience"
-    url: /teaching/    
+  - title: "Experience"
+    url: /#internship
     
-  - title: "Honor And Awards"
-    url: /markdown/
+  - title: "Honors"
+    url: /#honors
     
   # - title: "CV"
   #   url: /cv-json/

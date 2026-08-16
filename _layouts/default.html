@@ -14,6 +14,11 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
+    {% if page.layout == "academic-home" %}
+      <a class="skip-link" href="#main-content">Skip to main content</a>
+    {% else %}
+      <a class="skip-link" href="#main">Skip to main content</a>
+    {% endif %}
     {% include masthead.html %}
 
     {{ content }}
