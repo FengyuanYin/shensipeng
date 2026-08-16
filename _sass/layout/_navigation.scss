@@ -189,7 +189,7 @@
     }
   }
 
-  button {
+  > button {
     position: absolute;
     height: 2.5rem;
     right: 0;
@@ -225,11 +225,18 @@
       }
     }
 
-    #theme-toggle {
-      a {
-        width: 25px;
+    .theme-toggle {
+      button {
         display: flex;
+        position: static;
+        width: 44px;
+        height: 44px;
+        padding: 0;
+        align-items: center;
         justify-content: center;
+        color: var(--global-masthead-link-color);
+        border: 0;
+        background: transparent;
         cursor: pointer;
       }
     }
