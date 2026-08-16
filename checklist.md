@@ -77,9 +77,9 @@
 
 - [x] GitHub CLI 已安装且认证状态有效（验证：`gh` 2.97.0，`FengyuanYin` 账户已通过 keyring 登录）。
 - [x] 发布分支为 `agent/redesign-academic-homepage`（验证：`git branch --show-current`）。
-- [ ] 提交仅包含本次改版范围内文件（验证：检查暂存差异和提交文件列表）。
-- [ ] 分支已推送至 `FengyuanYin/shensipeng`（验证：检查远端跟踪分支和提交 SHA）。
-- [ ] 已创建指向目标仓库默认分支的草稿 PR（验证：记录 PR 地址、标题、目标分支和验证说明）。
+- [x] 提交仅包含本次改版范围内文件（验证：提交 `6f2f733` 包含 16 个规格、实现与验收文件）。
+- [x] 分支已推送至 `FengyuanYin/shensipeng`（验证：远端跟踪分支为 `origin/agent/redesign-academic-homepage`）。
+- [x] 已创建指向目标仓库默认分支的草稿 PR（验证：`https://github.com/FengyuanYin/shensipeng/pull/1`，目标分支 `master`）。
 
 ## 当前验证记录
 
