@@ -78,45 +78,6 @@ redirect_from:
   </ol>
 </section>
 
-<section id="internship" class="home-section" aria-labelledby="internship-title">
-  <div class="home-section__heading">
-    <div>
-      <p class="home-section__kicker">Industry</p>
-      <h2 id="internship-title">Internship</h2>
-    </div>
-    <p>Applied research in efficient and robust digital-human generation.</p>
-  </div>
-
-  <article class="experience-card">
-    <div class="experience-card__header">
-      <div>
-        <p class="experience-card__label">AIGC Algorithm Intern</p>
-        <h3>Hithink RoyalFlush Cloud Software Co., Ltd.</h3>
-      </div>
-      <span class="home-status">Lip-sync generation</span>
-    </div>
-
-    <div class="experience-card__grid">
-      <div>
-        <h4>Challenge</h4>
-        <p>Reduce the long inference time and high GPU memory consumption of diffusion-based lip-sync models.</p>
-      </div>
-      <div>
-        <h4>Approach</h4>
-        <p>Built an end-to-end, two-stage GAN framework for frontal-view lip synchronization, facial reconstruction, and targeted hard-case fine-tuning.</p>
-      </div>
-      <div>
-        <h4>Data &amp; robustness</h4>
-        <p>Trained on large video-generation model outputs and real-world datasets, with classifiers identifying profile views, infants, and occlusions.</p>
-      </div>
-      <div>
-        <h4>Result</h4>
-        <p>Designed uniform sampling for extreme angles, improving profile-view quality without compromising the model's original performance.</p>
-      </div>
-    </div>
-  </article>
-</section>
-
 <section id="publications" class="home-section" aria-labelledby="publications-title">
   <div class="home-section__heading">
     <div>
